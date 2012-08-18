@@ -1,0 +1,30 @@
+/*Style sheet for iqra quest*/
+/*loading the background image and fix it in background*/
+ body{
+	   background-image:url("../img/bg_gray.jpg");
+background-position:50% 50%;
+background-repeat:no-repeat;
+background-attachment:fixed;
+	   }.textfield {
+	height: 25px; /*Set the text field size*/
+	width: 180px;
+}
+<!--class for timeout Lable -->
+.out
+{
+	padding:10%;
+	color:#C00;
+	
+		font-size:72px;
+	}
+<!--Change the font of all paragraphs-->	
+p
+{font-family: "Calibri";}
+
+
+a:link {text-decoration:none;}
+a:visited {text-decoration:none;}
+a:hover {text-decoration:underline;}
+a:active {text-decoration:underline;}
+
+

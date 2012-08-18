@@ -1,0 +1,4 @@
+SMS Lib for .NET used for writing SMS server.
+A bsic SMS sending demo software provided by SMS Lib was modified to send sms.
+Google Map Api.
+Google Documention for google map api.

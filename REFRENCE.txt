@@ -1,0 +1,6 @@
+Team # 4
+
+SMS Lib for .NET used for writing SMS server. (smslib.org)
+A bsic SMS sending demo software provided by SMS Lib was modified to send sms.(http://smslib.org/doc/)
+Google Map Api.(https://developers.google.com/maps/)
+Google Documention for google map api.(https://developers.google.com/maps/documentation/javascript/)
